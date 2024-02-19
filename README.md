@@ -8,7 +8,7 @@
  <br>
 
  <h4>Conecte-se Comigo:</h4>
- <a href="https://www.linkedin.com/in/michel-rivas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="wa.link/vyc5zw" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+ <a href="https://www.linkedin.com/in/michel-rivas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://api.whatsapp.com/send?phone=+5565992086225&text=Ol%C3%A1,%20venho%20do%20seu%20perfil%20GitHub." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
 <br>
 
