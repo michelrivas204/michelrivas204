@@ -1,16 +1,32 @@
-### Hi there 👋
+<h1> :grey_exclamation:Ola Sou Michel Rivas, Programador Full Stack :computer:</h1>
+<br>
+<br>
+<h2>Atualmente estou Aprendendo e Criando Projetos com:</h2>
 
-<!--
-**michelrivas204/michelrivas204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html">   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-css">  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-javascript">
+ <br>
+ <br>
 
-Here are some ideas to get you started:
+ <h4>Conecte-se Comigo:</h4>
+ <a href="https://www.linkedin.com/in/michel-rivas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="wa.link/vyc5zw" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+ <h4>Michel Rivas GitHub Stats:</h4>
+ <br>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=michelrivas204&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=michelrivas204&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelrivas204&layout=compact)
+  
+
+
