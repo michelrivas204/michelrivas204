@@ -1,4 +1,4 @@
-<h1> :grey_exclamation:Ola Sou Michel Rivas, Programador Full Stack :computer:</h1>
+<h1> :grey_exclamation:Ola Sou Michel Rivas, Programador Front End:computer:</h1>
 <br>
 <br>
 <h2>Atualmente estou Aprendendo e Criando Projetos com:</h2>
